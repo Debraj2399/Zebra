@@ -1,0 +1,3 @@
+0	1	2	3	4
+SUBCKT	IC_AND_4		0	1	2	3	5
+NOT	5	4
